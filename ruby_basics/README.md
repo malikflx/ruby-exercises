@@ -39,7 +39,7 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 10.Basic Enumerables
 
-- [ ] Basic Enumerable Exercises
+- [x] Basic Enumerable Exercises
 
 #### 11.Predicate Enumerables
 
